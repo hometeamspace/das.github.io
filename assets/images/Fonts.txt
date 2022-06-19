@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Asap
+Author: Omnibus-Type
+Url: https://fonts.google.com/specimen/Asap
+
+Font: Lilita One
+Author: Juan Montoreano
+Url: https://fonts.google.com/specimen/Lilita+One
